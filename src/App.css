@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+
+  /* font-family: 'Raleway', sans-serif; */
+  /* background-color: #f9f9f9; */
+  background: -webkit-linear-gradient(left, rgba(37,196,129,0.04), rgba(37,183,196,0.04));
+  background: linear-gradient(to right, rgba(37,196,129,0.04), rgba(37,183,196,0.04));
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.content-container {
+
+  margin: auto;
+  width: 50%;
+  margin-bottom: 100px;
+  margin-top: 150px;
+
+}
+
+.link-table-search-input {
+
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 12px 12px 12px;
+  border: 0px solid #FFFFFF;
+  color: #303030
+
+}

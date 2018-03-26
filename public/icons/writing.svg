@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>writing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="writing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pencil-edit-button-2" transform="translate(0.000000, 0.010000)" fill="#25B7C4" fill-rule="nonzero">
+            <path d="M31.0853497,8.32939509 L41.2545369,18.4984877 L15.5135161,44.2395085 L5.35009452,34.0704159 L31.0853497,8.32939509 Z M48.970983,5.8768431 L44.4359168,1.34177694 C42.6832703,-0.410869565 39.8373346,-0.410869565 38.0787335,1.34177694 L33.7345936,5.68591682 L43.9037807,15.855104 L48.970983,10.7879017 C50.3303403,9.42844991 50.3303403,7.23620038 48.970983,5.8768431 Z M0.0283553875,48.3638941 C-0.156710775,49.1967864 0.595274102,49.9431002 1.42826087,49.7405482 L12.7601134,46.9930057 L2.59669187,36.823913 L0.0283553875,48.3638941 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

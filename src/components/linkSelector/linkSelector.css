@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.link-selector-button {
+
+  color: #25c481;
+  font-family: 'Raleway', sans-serif;
+  border: none;
+  height: 44px;
+  width: 50%;
+  font-size: 16px;
+
+}
+
+.plain-selector-button {
+
+  background-color: rgba(255,255,255,0);
+
+}
+
+.emphasized-selector-button {
+
+  background: -webkit-linear-gradient(left, rgba(37,196,129,0.12), rgba(37,183,196,0.12));
+  background: linear-gradient(to right, rgba(37,196,129,0.12), rgba(37,183,196,0.12));
+
+}

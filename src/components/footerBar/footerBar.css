@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.footer-bar-container {
+
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+  background: linear-gradient(to right, #25c481, #25b7c4);
+
+}
+
+.footer-bar-text {
+
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+
+}
